@@ -15,10 +15,10 @@
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/messages">Messages</router-link>
+            <router-link class="nav-link" to="/todos">Todos</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/register">Add Coach</router-link>
+            <router-link class="nav-link" to="/add-todo">Add Todo</router-link>
           </li>
 
         </ul>

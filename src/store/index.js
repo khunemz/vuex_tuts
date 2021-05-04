@@ -1,11 +1,11 @@
 import { createStore } from 'vuex'
-import coachesModule from './modules/coaches'
+import todosModules from './modules/todos'
 import 'es6-promise/auto'
 
 
 const store = createStore({
   modules: {
-    coaches: coachesModule,
+    todos: todosModules,
   }
 })
 
